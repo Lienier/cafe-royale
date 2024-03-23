@@ -1,0 +1,75 @@
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AdminLoginForm.resources
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.CashierLoginForm.resources
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.Form1.resources
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.Resources.resources
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.vbproj.GenerateResource.cache
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AssemblyInfoInputs.cache
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AssemblyInfo.vb
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.vbproj.CoreCompileInputs.cache
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.exe
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.deps.json
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.runtimeconfig.json
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.pdb
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\refint\CafeRoyale.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.pdb
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.genruntimeconfig.cache
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\ref\CafeRoyale.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.vbproj.AssemblyReference.cache
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.MenuForm.resources
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.vbproj.Up2Date
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AdminPanel.resources
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AddCashierform.resources
+C:\Users\reineil\source\repos\c# codes\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.ConfirmAddForm.resources
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.exe
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.deps.json
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.runtimeconfig.json
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\CafeRoyale.pdb
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.vbproj.AssemblyReference.cache
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.ConfirmAddForm.resources
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.Form1.resources
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.MenuForm.resources
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.Resources.resources
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.vbproj.GenerateResource.cache
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AssemblyInfoInputs.cache
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AssemblyInfo.vb
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.vbproj.CoreCompileInputs.cache
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.vbproj.Up2Date
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\refint\CafeRoyale.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.pdb
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.genruntimeconfig.cache
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\ref\CafeRoyale.dll
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AdminForm.resources
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.AddCashierForm.resources
+C:\Users\reineil\OneDrive\Desktop\CafeRoyale\CafeRoyale\obj\Debug\net8.0-windows\CafeRoyale.quantityForm.resources
